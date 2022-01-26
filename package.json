@@ -1,0 +1,12 @@
+{
+    "name": "textbasedbotprefab",
+    "version": "1.0.0",
+    "main": "dist/index.js",
+    "license": "MIT",
+    "dependencies": {
+        "discord.js": "^13.6.0",
+        "dotenv": "^14.3.2",
+        "fs": "^0.0.1-security",
+        "ms": "^2.1.3"
+    }
+}
